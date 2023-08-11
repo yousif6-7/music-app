@@ -1,0 +1,69 @@
+PODS:
+  - audio_session (0.0.1):
+    - Flutter
+  - audioplayers_darwin (0.0.1):
+    - Flutter
+  - ffmpeg-kit-ios-audio (5.1)
+  - ffmpeg_kit_flutter_audio (5.1.0):
+    - ffmpeg_kit_flutter_audio/audio (= 5.1.0)
+    - Flutter
+  - ffmpeg_kit_flutter_audio/audio (5.1.0):
+    - ffmpeg-kit-ios-audio (= 5.1)
+    - Flutter
+  - Flutter (1.0.0)
+  - isar_flutter_libs (1.0.0):
+    - Flutter
+  - just_audio (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.1.1):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - audioplayers_darwin (from `.symlinks/plugins/audioplayers_darwin/ios`)
+  - ffmpeg_kit_flutter_audio (from `.symlinks/plugins/ffmpeg_kit_flutter_audio/ios`)
+  - Flutter (from `Flutter`)
+  - isar_flutter_libs (from `.symlinks/plugins/isar_flutter_libs/ios`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ffmpeg-kit-ios-audio
+
+EXTERNAL SOURCES:
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  audioplayers_darwin:
+    :path: ".symlinks/plugins/audioplayers_darwin/ios"
+  ffmpeg_kit_flutter_audio:
+    :path: ".symlinks/plugins/ffmpeg_kit_flutter_audio/ios"
+  Flutter:
+    :path: Flutter
+  isar_flutter_libs:
+    :path: ".symlinks/plugins/isar_flutter_libs/ios"
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  audio_session: 4f3e461722055d21515cf3261b64c973c062f345
+  audioplayers_darwin: 877d9a4d06331c5c374595e46e16453ac7eafa40
+  ffmpeg-kit-ios-audio: 6eaf5a3c4249b767328502747a08bfd901a86d3d
+  ffmpeg_kit_flutter_audio: 5ee05bc5c18d4798a32505e82235dd2117cf3a04
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  isar_flutter_libs: b69f437aeab9c521821c3f376198c4371fa21073
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  permission_handler_apple: e76247795d700c14ea09e3a2d8855d41ee80a2e6
+
+PODFILE CHECKSUM: 9939ffada35f76995e87aa0b14709374daa8b870
+
+COCOAPODS: 1.11.3
